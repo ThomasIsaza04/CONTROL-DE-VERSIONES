@@ -16,6 +16,6 @@ Programa: Analisis y desarrollo de software
 
 Clase: Control de versiones git
 
-Instructor: 
+Instructor: Gustavo Bolaños
 
 Año: 2025
